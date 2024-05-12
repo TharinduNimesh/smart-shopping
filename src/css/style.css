@@ -7139,6 +7139,11 @@ textarea:-ms-input-placeholder {
   }
 }
 
+.single-blog .blog-content .blog-meta {
+  display: flex;
+  justify-content: flex-end;
+}
+
 .single-blog .blog-content .blog-meta span {
   font-size: 13px;
   line-height: 24px;
