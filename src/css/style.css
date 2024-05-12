@@ -9167,3 +9167,12 @@ textarea:-ms-input-placeholder {
 .progress-wrap-3 svg.progress-circle path {
   stroke: #ff5538;
 }
+
+.blog-details-section .sub-title {
+  font-size: 24px;
+  line-height: 30px;
+  font-weight: 600;
+  color: #0e0e0e;
+  padding-top: 20px;
+  text-decoration: underline;
+}
